@@ -1,5 +1,7 @@
 # Linear Regression for ML-Aided Chip Design Optimization
-
+---
+colab view link: https://colab.research.google.com/drive/1tPIh_t2jS-l1nhfsIl9iItkd0qMTUR7A?usp=sharing
+---
 This project explores the use of **Linear Regression as a baseline machine learning model in VLSI design automation (EDA)**. Instead of directly relying on heavy black-box models like Graph Neural Networks, this work studies where simple linear models are sufficient and where they fail.
 
 The project covers two case studies:
